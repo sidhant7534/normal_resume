@@ -1,0 +1,55 @@
+.container-body{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 650px;
+    height: 866px;
+    padding: 10px;
+    background-color: rgb(232, 223, 223);
+}
+.intro{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+.education-tag{
+    text-decoration: underline;
+}
+.college-info{
+    display: flex;
+    justify-content: space-between;
+}
+.coer{
+    border: 1px solid;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.year{
+    border: 1px solid;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.project-tag{
+    text-decoration: underline;
+}
+.certificate{
+    text-decoration: underline;
+}
+.technical{
+    text-decoration: underline;
+}
+.personal-tag{
+    text-decoration: underline;
+}
